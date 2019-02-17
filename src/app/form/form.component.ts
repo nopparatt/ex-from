@@ -20,7 +20,7 @@ formGroup :FormGroup;
       firstName: this.formBulid.control(''),
       lastName:[''] ,
       gmail:[''],
-      age:['22']
+      age:['']
       
     })
   }
